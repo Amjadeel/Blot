@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  Tarinshot2
+
+  Created by Amjad ALshahrani on 19/06/1444 AH.
+  
+*/
+
+
+"Available materials : " = "الخامات المتوفرة:";
+"Reset" = "اعادة ضبط";
+"Available stains:" = "البقع المتوفرة:";
+"Cleaning method:" = "طرق التنظيف:";
+"Use baking soda:" = "استخدم صودا الخبز:" ;
+"Denim" = "دنيم";
+"Velvet" = "مخمل";
+"Slik" = "حرير";
+"Wool"="صوف";
+"Bolt!" = "بقعة";
+"Cotton" = "قطن" ;
+
+"Coffee" = "قهوة";
+"Oil" = "زيت";
+"Tea" = "شاي";
+"Cream" = "كريم";
+"Milk" = "حليب";
+
+
+"1- Remove any excess oil with a paper towel or cloth." = "١- أزل الزيت الزائد بمنشفة ورقية أو قطعة قماش.";
+
+"2- Sprinkle baking soda on the affected fabric and allow it to sit for 24 hours." = "٢-رش صودا الخبز على القماش المصاب واتركه لمدة 24 ساعة.";
+
+"3- After a day passes, vacuum or brush the baking soda away." = "٣- بعد مرور يوم ، قم بتنظيف أو تنظيف صودا الخبز بالمكنسة الكهربائية.";
+
+"4- Spray the affected area with a vinegar and water solution." = "٤- بمحلول الخل والماء.";
+
+"5- Scrub with soap and a brush, then rinse." = "٥- افرك بالصابون والفرشاة ثم اشطف.";
+
+"6- Repeat the process if the stain remains." = " ٦- كرر العملية إذا بقيت البقعة.";
+
+
+
+
+"Use fabric whitner :" = "استخدام مبيض القماش:" ;
+
+
+"1- Remove any excess coffee with a paper towel or cloth." =  "١-قم بإزالة أي فائض من القهوة بمنشفة ورقية أو قطعة قماش." ;
+
+"2- Soak in fabric whitner for 30 min." = "٢- انقعه في مبيض القماش لمدة 30 دقيقة.";
+
+"3- Put in the wash immediately" = "٣- ضع الغسول فوراً. ";
+
+
+
+"Choose one fabric and one stain type to get started !" = "اختر نوعًا من القماش ونوع من البقع للبدء!";
+
+"WARNING : WHEN DEALING WITH FABRIC WHITNER BE CARFUL NOT TO BLEACH YOUR CLOTHES" = "تحذير: عند التعامل مع مبيض النسيج ، احرص على عدم تبييض ملابسك";

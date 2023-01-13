@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  Tarinshot2
+
+  Created by Amjad ALshahrani on 19/06/1444 AH.
+  
+*/
+"Bolt!" = "Bolt!";
+"Cotton" = "Cotton" ;
+"Denim" = "";
+"Velvet" = "Velvet";
+"Slik" = "Slik";
+"Wool" = "Wool";
+"Bolt!" = "Bolt!";
+"Cotton" = "Cotton";
+
+"Coffee" = "Coffee";
+"Oil" = "Oil";
+"Tea" = "Tea";
+"Cream" = "Cream";
+"Milk" = "Milk";
+"Available materials : " = "Available materials : ";
+"Reset" = "Reset";
+"Available stains : " = "Available stains : ";
+"Cleaning method :" = "Cleaning method :" ;
+"Use baking soda : " = "Use baking soda : ";
+"Wool" = "Wool";
+
+"1- Remove any excess oil with a paper towel or cloth." = "1- Remove any excess oil with a paper towel or cloth.";
+
+"2- Sprinkle baking soda on the affected fabric and allow it to sit for 24 hours." = "2- Sprinkle baking soda on the affected fabric and allow it to sit for 24 hours.";
+
+"3- After a day passes, vacuum or brush the baking soda away." = "3- After a day passes, vacuum or brush the baking soda away.";
+
+"4- Spray the affected area with a vinegar and water solution." = "4- Spray the affected area with a vinegar and water solution.";
+
+"5- Scrub with soap and a brush, then rinse." = "5- Scrub with soap and a brush, then rinse.";
+
+"6- Repeat the process if the stain remains." = "6- Repeat the process if the stain remains.";
+
+
+
+
+"Use fabric whitner : " = "Use fabric whitner : ";
+
+"1- Remove any excess coffee with a paper towel or cloth." =  "1- Remove any excess coffee with a paper towel or cloth.";
+
+"2- Soak in fabric whitner for 30 min." = "2- Soak in fabric whitner for 30 min.";
+
+"3- Put in the wash immediately" = "3- Put in the wash immediately";
+
+"WARNING : WHEN DEALING WITH FABRIC WHITNER BE CARFUL NOT TO BLEACH YOUR CLOTHES" = "WARNING : WHEN DEALING WITH FABRIC WHITNER BE CARFUL NOT TO BLEACH YOUR CLOTHES";
+
+"Choose one fabric and one stain type to get started !" = "Choose one fabric and one stain type to get started !";
+
